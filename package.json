@@ -1,0 +1,20 @@
+{
+  "name": "my-logos",
+  "version": "1.0.0",
+  "description": "Repository with my custom logos in various formats",
+  "main": "readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maux/my-logos.git"
+  },
+  "keywords": [
+    "logo"
+  ],
+  "author": "Maux",
+  "email": "maux.webmaster@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maux/my-logos/issues"
+  },
+  "homepage": "https://github.com/Maux/my-logos#readme"
+}
